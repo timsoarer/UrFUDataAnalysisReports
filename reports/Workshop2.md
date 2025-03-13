@@ -221,6 +221,8 @@ public class NewBehaviourScript : MonoBehaviour
 
 Научились передавать в Unity данные из Google Sheets с помощью Python.
 
+Все созданные в ходе работы программы доступны в этой репозитории в папке workshop-projects.
+
 | Plugin | README |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
