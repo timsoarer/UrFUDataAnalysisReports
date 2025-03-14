@@ -105,6 +105,8 @@ for i in level:
 
 ![image](screenshots/Screenshot5.png)
 
+- [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1HNPKYvkw2i7e8i0SZcKDJR0AalKUKrLWyiiisD8kBH4/edit?gid=0#gid=0)
+
 ## Задание 2
 ### Создайть 10 сцен на Unity с изменяющимся уровнем сложности.
 
